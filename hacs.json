@@ -1,0 +1,7 @@
+{
+  "name": "CO2 Sensor C8D",
+  "country": "KR",
+  "domains": ["sensor"],
+  "render_readme": true,
+  "icons": ["images/logo.png"]
+}
