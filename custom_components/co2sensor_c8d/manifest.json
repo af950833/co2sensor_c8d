@@ -1,0 +1,10 @@
+{
+  "domain": "co2sensor_c8d",
+  "name": "CO2 Sensor C8D",
+  "config_flow": true,
+  "documentation": "https://github.com/af950833/co2sensor_c8d",
+  "dependencies": [],
+  "version": "1.0.0",
+  "codeowners": ["@af950833"],
+  "requirements": []
+}
