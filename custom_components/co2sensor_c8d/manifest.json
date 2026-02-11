@@ -4,7 +4,8 @@
   "config_flow": true,
   "documentation": "https://github.com/af950833/co2sensor_c8d",
   "dependencies": [],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "codeowners": ["@af950833"],
   "requirements": []
 }
+
